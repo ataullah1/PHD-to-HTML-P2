@@ -1,0 +1,1181 @@
+@media (min-width:1400px) {}
+
+@media (min-width:1200px) and (max-width:1399px) {
+    .container {
+        width: 98%;
+    }
+    .btm-hed h1 {
+        font-size: 40px;
+        padding: 22px 0px;
+    }
+    /*  ========== Start main section================= */
+    .main {
+        width: 100%;
+        padding: 40px 0px;
+    }
+    .main-1 {
+        width: 98%;
+    }
+    .m-left p {
+        font-size: 18px;
+    }
+    .pc {
+        position: relative;
+        left: 15%;
+    }
+    .pc img {
+        height: 300px;
+    }
+    .tab img {
+        height: 150px;
+    }
+    .phn img {
+        height: 180px;
+    }
+    .tab {
+        position: absolute;
+        top: 65.5%;
+        left: 28%;
+    }
+    .phn {
+        position: absolute;
+        top: 61.5%;
+        left: 12%;
+    }
+    .sec-2 p {
+        font-size: 18px
+    }
+    .m-r-f {
+        width: 90%;
+    }
+    .form-m {
+        width: 420px;
+        margin: auto;
+    }
+    .form-m div input {
+        height: 20px;
+        width: 195px;
+        margin-bottom: 8px;
+    }
+    .form-m div select {
+        height: 22.5px;
+        width: 198px;
+        margin-bottom: 8px;
+    }
+    .submit input {
+        font-size: 25px;
+        padding: 5px 12px;
+    }
+    .f-checkbox {
+        width: 420px;
+        margin: auto;
+    }
+    .m-r-f .privacy {
+        font-size: 15px;
+    }
+    .m-right-p-r {
+        font-size: 15px;
+        padding: 10px 5px 0px 0px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .container {
+        width: 98%;
+    }
+    .btm-hed h1 {
+        font-size: 40px;
+        padding: 22px 0px;
+    }
+    /*  ========== Start main section================= */
+    .main {
+        width: 100%;
+        padding: 40px 0px;
+    }
+    .main-1 {
+        width: 98%;
+    }
+    .m-left p {
+        font-size: 18px;
+    }
+    .pc {
+        position: relative;
+        left: 15%;
+    }
+    .pc img {
+        height: 300px;
+    }
+    .tab img {
+        height: 150px;
+    }
+    .phn img {
+        height: 180px;
+    }
+    .tab {
+        position: absolute;
+        top: 65.5%;
+        left: 28%;
+    }
+    .phn {
+        position: absolute;
+        top: 61.5%;
+        left: 12%;
+    }
+    .sec-2 p {
+        font-size: 18px
+    }
+    .m-r-f {
+        width: 90%;
+    }
+    .f-checkbox {
+        width: 340px;
+        margin: auto;
+    }
+    .form-m {
+        width: 340px;
+        margin: auto;
+    }
+    .form-m div input {
+        height: 20px;
+        width: 155px;
+        margin-bottom: 8px;
+    }
+    .form-m div select {
+        height: 22.5px;
+        width: 162px;
+        margin-bottom: 8px;
+    }
+    .submit input {
+        font-size: 23px;
+        padding: 5px 12px;
+    }
+    .m-r-f .privacy {
+        font-size: 15px;
+    }
+    .m-right-p-r {
+        font-size: 15px;
+        padding: 10px 5px 0px 0px;
+    }
+    /* ============= End main part =========== */
+    /* =====start footer part ============ */
+    footer {
+        padding: 30px 50px 10px 50px;
+    }
+    .f-icon img {
+        width: 170px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1099px) {
+    .container {
+        width: 98%;
+    }
+    .btm-hed h1 {
+        font-size: 40px;
+        padding: 22px 0px;
+    }
+    /*  ========== Start main section================= */
+    .main {
+        width: 100%;
+        padding: 40px 0px;
+    }
+    .main-1 {
+        width: 98%;
+    }
+    .m-left p {
+        font-size: 18px;
+    }
+    .pc {
+        position: relative;
+        left: 15%;
+    }
+    .pc img {
+        height: 300px;
+    }
+    .tab img {
+        height: 150px;
+    }
+    .phn img {
+        height: 180px;
+    }
+    .tab {
+        position: absolute;
+        top: 65.5%;
+        left: 32%;
+    }
+    .phn {
+        position: absolute;
+        top: 61.5%;
+        left: 13%;
+    }
+    .sec-2 p {
+        font-size: 18px
+    }
+    .m-r-f {
+        width: 90%;
+    }
+    .form-m div input {
+        height: 20px;
+        width: 155px;
+        margin-bottom: 8px;
+    }
+    .form-m div select {
+        height: 22.5px;
+        width: 162px;
+        margin-bottom: 8px;
+    }
+    .submit input {
+        font-size: 20px;
+        padding: 5px 12px;
+    }
+    .m-r-f .privacy {
+        font-size: 15px;
+    }
+    .m-right-p-r {
+        font-size: 15px;
+        padding: 10px 5px 0px 0px;
+    }
+    /* ============= End main part =========== */
+    /* =====start footer part ============ */
+    footer {
+        padding: 30px 50px 10px 50px;
+    }
+    .f-icon img {
+        width: 150px;
+    }
+}
+
+@media (min-width:943px) and (max-width:991px) {
+    .container {
+        width: 98%;
+    }
+    .call-1 p {
+        text-align: right;
+    }
+    .btm-hed h1 {
+        font-size: 30px;
+        padding: 15px 0px;
+    }
+    .main-1 {
+        display: block;
+        width: 95%;
+        padding: 0px 20px;
+    }
+    .m-left {
+        width: 95%;
+        text-align: justify;
+    }
+    .m-left p {
+        font-size: 18px;
+    }
+    .sec-1 {
+        padding: 25px 0px;
+    }
+    .pc {
+        position: relative;
+        left: 5%;
+        text-align: center;
+    }
+    .pc img {
+        height: 320px;
+    }
+    .tab img {
+        height: 200px;
+    }
+    .tab {
+        position: absolute;
+        top: 55.5%;
+        left: 55%;
+    }
+    .phn {
+        position: absolute;
+        top: 56%;
+        left: 34%;
+    }
+    .phn img {
+        height: 200px;
+    }
+    .m-right {
+        width: 100%;
+        padding-top: 30px;
+    }
+    .m-r-f {
+        width: 95%;
+        padding: 0px 10px;
+    }
+    .m-r-f h1 {
+        font-size: 35px;
+        padding: 15px 0px 20px 0px;
+    }
+    .form-m div {
+        margin: auto;
+        width: 90%;
+    }
+    .form-m {
+        display: block;
+    }
+    .form-m div label {
+        font-size: 14px;
+    }
+    .form-m div input {
+        width: 100%;
+        height: 20px;
+    }
+    .form-m div select {
+        width: 101%;
+        height: 23.5px;
+    }
+    .f-checkbox {
+        font-size: 14px;
+        padding: 0px 0px 0px 35px;
+    }
+    .submit input {
+        font-size: 22px;
+        padding: 15px 20px;
+        background-color: #F6921D;
+        border-radius: 5px;
+        border: 0px;
+    }
+    .submit {
+        text-align: center;
+        padding: 10px 0px 15px 0px;
+    }
+    .m-r-f .privacy {
+        text-align: center;
+        font-size: 18px;
+    }
+    .m-right-p-r {
+        font-size: 15px;
+        padding: 5px 5px 0px 0px;
+    }
+    /* ============= End main part =========== */
+    /* =====start footer part ============ */
+    footer {
+        padding: 15px 2px 5px 2px;
+    }
+    footer h1 {
+        font-size: 30px;
+        padding-top: 20px;
+    }
+    .f-icon {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .f-icon img {
+        width: 100%;
+        /* background-color: #F6921D; */
+        padding: 0px 0px 0px 15px;
+    }
+    .f-icon-1 div {
+        margin: auto;
+    }
+    .f-copyrt {
+        font-size: 16px;
+    }
+}
+
+@media (min-width:768px) and (max-width:942px) {
+    .container {
+        width: 98%;
+    }
+    .call-1 p {
+        text-align: right;
+    }
+    .btm-hed h1 {
+        font-size: 30px;
+        padding: 15px 0px;
+    }
+    .main-1 {
+        display: block;
+        width: 95%;
+        padding: 0px 20px;
+    }
+    .m-left {
+        width: 95%;
+        text-align: justify;
+    }
+    .m-left p {
+        font-size: 18px;
+    }
+    .sec-1 {
+        padding: 25px 0px;
+    }
+    .pc {
+        position: relative;
+        left: 5%;
+        text-align: center;
+    }
+    .pc img {
+        height: 250px;
+    }
+    .tab img {
+        height: 150px;
+    }
+    .tab {
+        position: absolute;
+        top: 56.5%;
+        left: 57%;
+    }
+    .phn {
+        position: absolute;
+        top: 54%;
+        left: 34%;
+    }
+    .phn img {
+        height: 170px;
+    }
+    .m-right {
+        width: 100%;
+        padding-top: 30px;
+    }
+    .m-r-f {
+        width: 95%;
+        padding: 0px 10px;
+    }
+    .m-r-f h1 {
+        font-size: 35px;
+        padding: 15px 0px 20px 0px;
+    }
+    .form-m div {
+        margin: auto;
+        width: 90%;
+    }
+    .form-m {
+        display: block;
+    }
+    .form-m div label {
+        font-size: 14px;
+    }
+    .form-m div input {
+        width: 100%;
+        height: 20px;
+    }
+    .form-m div select {
+        width: 101%;
+        height: 23.5px;
+    }
+    .f-checkbox {
+        font-size: 14px;
+        padding: 0px 0px 0px 35px;
+    }
+    .submit input {
+        font-size: 19px;
+        padding: 8px 15px;
+        background-color: #F6921D;
+        border-radius: 2px;
+        border: 0px;
+    }
+    .submit {
+        text-align: center;
+        padding: 10px 0px 15px 0px;
+    }
+    .m-r-f .privacy {
+        text-align: center;
+        font-size: 18px;
+    }
+    .m-right-p-r {
+        font-size: 15px;
+        padding: 5px 5px 0px 0px;
+    }
+    /* ============= End main part =========== */
+    /* =====start footer part ============ */
+    footer {
+        padding: 15px 2px 5px 2px;
+    }
+    footer h1 {
+        font-size: 25px;
+    }
+    .f-icon {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .f-icon img {
+        width: 100%;
+        /* background-color: #F6921D; */
+        padding: 0px 0px 0px 15px;
+    }
+    .f-icon-1 div {
+        margin: auto;
+    }
+    .f-copyrt {
+        font-size: 15px;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .container {
+        width: 98%;
+    }
+    .call-1 p {
+        text-align: right;
+    }
+    .btm-hed h1 {
+        font-size: 30px;
+        padding: 15px 0px;
+    }
+    .main-1 {
+        display: block;
+        width: 95%;
+        padding: 0px 20px;
+    }
+    .m-left {
+        width: 95%;
+        text-align: justify;
+    }
+    .m-left p {
+        font-size: 18px;
+    }
+    .sec-1 {
+        padding: 25px 0px;
+    }
+    .pc {
+        position: relative;
+        left: 5%;
+        text-align: center;
+    }
+    .pc img {
+        height: 250px;
+    }
+    .tab img {
+        height: 150px;
+    }
+    .tab {
+        position: absolute;
+        top: 56.5%;
+        left: 57%;
+    }
+    .phn {
+        position: absolute;
+        top: 54%;
+        left: 28%;
+    }
+    .phn img {
+        height: 170px;
+    }
+    .m-right {
+        width: 100%;
+        padding-top: 30px;
+    }
+    .m-r-f {
+        width: 95%;
+        padding: 0px 10px;
+    }
+    .m-r-f h1 {
+        font-size: 35px;
+        padding: 15px 0px 20px 0px;
+    }
+    .form-m div {
+        margin: auto;
+        width: 90%;
+    }
+    .form-m {
+        display: block;
+    }
+    .form-m div label {
+        font-size: 14px;
+    }
+    .form-m div input {
+        width: 100%;
+        height: 20px;
+    }
+    .form-m div select {
+        width: 101%;
+        height: 23.5px;
+    }
+    .f-checkbox {
+        font-size: 14px;
+        padding: 0px 0px 0px 35px;
+    }
+    .submit input {
+        font-size: 19px;
+        padding: 8px 15px;
+        background-color: #F6921D;
+        border-radius: 2px;
+        border: 0px;
+    }
+    .submit {
+        text-align: center;
+        padding: 10px 0px 15px 0px;
+    }
+    .m-r-f .privacy {
+        text-align: center;
+        font-size: 18px;
+    }
+    .m-right-p-r {
+        font-size: 15px;
+        padding: 5px 5px 0px 0px;
+    }
+    /* ============= End main part =========== */
+    /* =====start footer part ============ */
+    footer {
+        padding: 15px 2px 5px 2px;
+    }
+    footer h1 {
+        font-size: 25px;
+    }
+    .f-icon {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .f-icon img {
+        width: 100%;
+        /* background-color: #F6921D; */
+        padding: 0px 0px 0px 15px;
+    }
+    .f-icon-1 div {
+        margin: auto;
+    }
+    .f-copyrt {
+        font-size: 15px;
+    }
+}
+
+@media (min-width:406px) and (max-width:575px) {
+    .container {
+        width: 98%;
+    }
+    .top-hed {
+        padding-top: 0px;
+        width: 100%;
+    }
+    .logo {
+        width: 70%;
+        /* background-color: antiquewhite; */
+    }
+    .togol {
+        display: block;
+    }
+    .togol div {
+        padding: 10px 10px 0px 0px;
+    }
+    .call {
+        position: absolute;
+        top: 6%;
+        right: 3%;
+        background-color: rgb(230, 154, 92);
+        display: none;
+    }
+    .call-1 p {
+        font-size: 10px;
+    }
+    .logo img {
+        height: 50px;
+        width: 100px;
+    }
+    .p-t-r-l img {
+        height: 20px;
+        width: 30px;
+        padding-top: 5px;
+    }
+    .p-t-r-l p {
+        font-size: 10px;
+    }
+    .number {
+        font-size: 10px;
+    }
+    .togol:hover~.call {
+        display: block;
+    }
+    .btm-hed h1 {
+        font-size: 20px;
+        padding: 12px 0px;
+    }
+    .main {
+        padding: 20px 0px;
+    }
+    .main-1 {
+        display: block;
+        width: 95%;
+    }
+    .m-left {
+        width: 95%;
+        text-align: justify;
+    }
+    .m-left p {
+        font-size: 15px;
+    }
+    .sec-1 {
+        padding: 10px 0px;
+    }
+    .pc {
+        position: relative;
+        left: 5%;
+        text-align: center;
+    }
+    .pc img {
+        height: 200px;
+    }
+    .tab img {
+        height: 110px;
+    }
+    .tab {
+        position: absolute;
+        top: 38.5%;
+        left: 56%;
+    }
+    .phn {
+        position: absolute;
+        top: 37%;
+        left: 25%;
+    }
+    .phn img {
+        height: 120px;
+    }
+    .m-right {
+        width: 100%;
+        padding-top: 30px;
+    }
+    .m-r-f {
+        width: 95%;
+        padding: 0px 10px;
+    }
+    .m-r-f h1 {
+        font-size: 25px;
+        padding: 10px 0px 20px 0px;
+    }
+    .form-m div {
+        margin: auto;
+        width: 90%;
+    }
+    .form-m {
+        display: block;
+    }
+    .form-m div label {
+        font-size: 14px;
+    }
+    .form-m div input {
+        width: 100%;
+        height: 20px;
+    }
+    .form-m div select {
+        width: 102%;
+        height: 23.5px;
+    }
+    .f-checkbox {
+        font-size: 14px;
+        padding: 0px 0px 0px 13px;
+    }
+    .submit input {
+        font-size: 15px;
+        padding: 4px 10px;
+        background-color: #F6921D;
+        border-radius: 2px;
+        border: 0px;
+    }
+    .submit {
+        text-align: center;
+        padding: 10px 0px 15px 0px;
+    }
+    .m-r-f .privacy {
+        text-align: center;
+        font-size: 12px;
+    }
+    .m-right-p-r {
+        font-size: 14px;
+        padding: 5px 5px 0px 0px;
+    }
+    /* ============= End main part =========== */
+    /* =====start footer part ============ */
+    footer {
+        padding: 15px 2px 5px 2px;
+    }
+    footer h1 {
+        font-size: 18px;
+    }
+    .f-icon {
+        display: block;
+        width: 100%;
+    }
+    .f-icon img {
+        width: 100%;
+        padding: 0px 0px 0px 15px;
+    }
+    .f-icon-1 div {
+        margin: auto;
+    }
+    .f-copyrt {
+        font-size: 12px;
+    }
+}
+
+@media (min-width:321px) and (max-width:405px) {
+    .container {
+        width: 98%;
+    }
+    .top-hed {
+        padding-top: 0px;
+        width: 100%;
+    }
+    .logo {
+        width: 70%;
+        /* background-color: antiquewhite; */
+    }
+    .togol {
+        display: block;
+    }
+    .togol div {
+        padding: 10px 10px 0px 0px;
+    }
+    .call {
+        position: absolute;
+        top: 6%;
+        right: 3%;
+        background-color: rgb(230, 154, 92);
+        display: none;
+    }
+    .call-1 p {
+        font-size: 10px;
+    }
+    .logo img {
+        height: 50px;
+        width: 100px;
+    }
+    .p-t-r-l img {
+        height: 20px;
+        width: 30px;
+        padding-top: 5px;
+    }
+    .p-t-r-l p {
+        font-size: 10px;
+    }
+    .number {
+        font-size: 10px;
+    }
+    .togol:hover~.call {
+        display: block;
+    }
+    .btm-hed h1 {
+        font-size: 20px;
+        padding: 12px 0px;
+    }
+    .main {
+        padding: 20px 0px;
+    }
+    .main-1 {
+        display: block;
+        width: 95%;
+    }
+    .m-left {
+        width: 95%;
+        text-align: justify;
+    }
+    .m-left p {
+        font-size: 15px;
+    }
+    .sec-1 {
+        padding: 10px 0px;
+    }
+    .pc {
+        position: relative;
+        left: 5%;
+        text-align: center;
+    }
+    .pc img {
+        height: 150px;
+    }
+    .tab img {
+        height: 80px;
+    }
+    .tab {
+        position: absolute;
+        top: 38.5%;
+        left: 56%;
+    }
+    .phn {
+        position: absolute;
+        top: 36.5%;
+        left: 25%;
+    }
+    .phn img {
+        height: 95px;
+    }
+    .m-right {
+        width: 100%;
+        padding-top: 30px;
+    }
+    .m-r-f {
+        width: 95%;
+        padding: 0px 10px;
+    }
+    .m-r-f h1 {
+        font-size: 25px;
+        padding: 10px 0px 20px 0px;
+    }
+    .form-m div {
+        margin: auto;
+        width: 90%;
+    }
+    .form-m {
+        display: block;
+    }
+    .form-m div label {
+        font-size: 14px;
+    }
+    .form-m div input {
+        width: 100%;
+        height: 20px;
+    }
+    .form-m div select {
+        width: 102%;
+        height: 23.5px;
+    }
+    .f-checkbox {
+        font-size: 14px;
+        padding: 0px 0px 0px 13px;
+    }
+    .submit input {
+        font-size: 15px;
+        padding: 4px 10px;
+        background-color: #F6921D;
+        border-radius: 2px;
+        border: 0px;
+    }
+    .submit {
+        text-align: center;
+        padding: 10px 0px 15px 0px;
+    }
+    .m-r-f .privacy {
+        text-align: center;
+        font-size: 12px;
+    }
+    .m-right-p-r {
+        font-size: 14px;
+        padding: 5px 5px 0px 0px;
+    }
+    /* ============= End main part =========== */
+    /* =====start footer part ============ */
+    footer {
+        padding: 15px 2px 5px 2px;
+    }
+    footer h1 {
+        font-size: 18px;
+    }
+    .f-icon {
+        display: block;
+        width: 100%;
+    }
+    .f-icon img {
+        width: 100%;
+        padding: 0px 0px 0px 15px;
+    }
+    .f-icon-1 div {
+        margin: auto;
+    }
+    .f-copyrt {
+        font-size: 12px;
+    }
+}
+
+@media (max-width:320px) {
+    .container {
+        width: 98%;
+    }
+    .top-hed {
+        padding-top: 0px;
+        width: 100%;
+    }
+    .logo {
+        width: 70%;
+        /* background-color: antiquewhite; */
+    }
+    .togol {
+        display: block;
+    }
+    .togol div {
+        padding: 5px 5px 0px 0px;
+    }
+    .call {
+        position: absolute;
+        top: 6%;
+        right: 3%;
+        background-color: rgb(230, 154, 92);
+        display: none;
+    }
+    .call-1 p {
+        font-size: 10px;
+    }
+    .logo img {
+        height: 50px;
+        width: 100px;
+    }
+    .p-t-r-l img {
+        height: 20px;
+        width: 30px;
+        padding-top: 5px;
+    }
+    .p-t-r-l p {
+        font-size: 10px;
+    }
+    .number {
+        font-size: 10px;
+    }
+    .togol:hover~.call {
+        display: block;
+    }
+    .btm-hed h1 {
+        font-size: 20px;
+        padding: 12px 0px;
+    }
+    .main {
+        padding: 20px 0px;
+    }
+    .main-1 {
+        display: block;
+        width: 95%;
+    }
+    .m-left {
+        width: 95%;
+        text-align: justify;
+    }
+    .m-left p {
+        font-size: 15px;
+    }
+    .sec-1 {
+        padding: 10px 0px;
+    }
+    .pc {
+        position: relative;
+        left: 5%;
+        text-align: center;
+    }
+    .pc img {
+        height: 150px;
+    }
+    .tab img {
+        height: 80px;
+    }
+    .tab {
+        position: absolute;
+        top: 38.5%;
+        left: 56%;
+    }
+    .phn {
+        position: absolute;
+        top: 36.5%;
+        left: 25%;
+    }
+    .phn img {
+        height: 95px;
+    }
+    .m-right {
+        width: 100%;
+        padding-top: 30px;
+    }
+    .m-r-f {
+        width: 95%;
+        padding: 0px 10px;
+        /* height: 622px; */
+    }
+    .m-r-f h1 {
+        font-size: 25px;
+        padding: 10px 0px 20px 0px;
+    }
+    .form-m div {
+        margin: auto;
+        width: 90%;
+    }
+    .form-m {
+        display: block;
+    }
+    .form-m div label {
+        font-size: 14px;
+    }
+    .form-m div input {
+        width: 100%;
+        height: 20px;
+    }
+    .form-m div select {
+        width: 102%;
+        height: 23.5px;
+    }
+    .f-checkbox {
+        font-size: 14px;
+        padding: 0px 0px 0px 13px;
+    }
+    .submit input {
+        font-size: 15px;
+        padding: 4px 10px;
+        background-color: #F6921D;
+        border-radius: 2px;
+        border: 0px;
+    }
+    .submit {
+        text-align: center;
+        padding: 10px 0px 15px 0px;
+    }
+    .m-r-f .privacy {
+        text-align: center;
+        font-size: 12px;
+    }
+    .m-right-p-r {
+        font-size: 14px;
+        padding: 5px 5px 0px 0px;
+    }
+    /* ============= End main part =========== */
+    /* =====start footer part ============ */
+    footer {
+        padding: 15px 2px 5px 2px;
+    }
+    footer h1 {
+        font-size: 18px;
+    }
+    .f-icon {
+        display: block;
+        width: 100%;
+    }
+    .f-icon img {
+        width: 100%;
+        padding: 0px 0px 0px 15px;
+    }
+    .f-icon-1 div {
+        margin: auto;
+    }
+    .f-copyrt {
+        font-size: 12px;
+    }
+}
+
+@media (max-width:272px) {
+    .pc {
+        left: 5%;
+    }
+    .tab img {
+        height: 70px;
+    }
+    .tab {
+        top: 43%;
+        left: 58%;
+    }
+    .phn {
+        top: 40%;
+        left: 20%;
+    }
+    .phn img {
+        height: 90px;
+    }
+}
+
+@media (max-width:261px) {
+    .tab {
+        top: 46.5%;
+    }
+    .phn {
+        top: 44%;
+    }
+}
+
+@media (max-width:218px) {
+    .tab {
+        top: 50%;
+    }
+    .tab img {
+        height: 65px;
+    }
+    .phn {
+        top: 47%;
+        left: 14%;
+    }
+}
